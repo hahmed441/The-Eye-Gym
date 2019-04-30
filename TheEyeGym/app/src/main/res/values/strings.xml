@@ -1,0 +1,49 @@
+<resources>
+    <string name="The_Eye_Gym">The Eye Gym</string>
+    <string name="Home">Home</string>
+    <string name="Activities">Activities</string>
+    <string name="notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_profile">profileActivity</string>
+    <string name="nav_home">Home</string>
+    <string name="activity_nav">Activities</string>
+    <string name="nav_notif">Notifications</string>
+    <string name="nav_activity">Activities</string>
+    <string name="default_notification_channel_id">The Eye Gym Notification</string>
+
+
+    <string name="trainingOnce">You have only trained once</string>
+    <string name="more_than_once">You have trained more than once</string>
+    <string name="once">1 time in</string>
+    <string name="training_1">You trained less than a hour ago.\nSee this!\n</string>
+    <string name="we_done">You are done!!!</string>
+    <string name="go_training">\nTrain More!!!</string>
+    <string name="we_training">You trained</string>
+    <string name="because">so</string>
+    <string name="close_eyes">Close your eyes to the signal or clap</string>
+    <string name="relax">Relax</string>
+    <string name="up_and_down">Up and down</string>
+    <string name="follow_the_pointer">Follow the pointer</string>
+    <string name="left_and_right">Left and right</string>
+    <string name="trajectory_rectangle">Trajectory rectangle</string>
+    <string name="trajectory_rectangle_vice_verca">Trajectory rectangle (in the other direction)</string>
+    <string name="look_at_distance_object">Look for an object that is 5-10 meters away from you</string>
+    <string name="look_at_subject_to_sound">Consider the subject to the signal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

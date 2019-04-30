@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109665601528",
+    "firebase_url": "https://the-eye-gym.firebaseio.com",
+    "project_id": "the-eye-gym",
+    "storage_bucket": "the-eye-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109665601528:android:097979e10882f9ea",
+        "android_client_info": {
+          "package_name": "com.example.haroonahmed.theeyegym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109665601528-aa5o8t6negbbkmm46s8jps4n3lc3voq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haroonahmed.theeyegym",
+            "certificate_hash": "16b10d12322ac7428563b6fde660457fa20e36ce"
+          }
+        },
+        {
+          "client_id": "109665601528-ujk8q72f7q3bk3l0ljuhdlotushdgblq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ99SBInzTCx21JLQ8RVYdrC3LdM3_Xbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109665601528-ujk8q72f7q3bk3l0ljuhdlotushdgblq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
